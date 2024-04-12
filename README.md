@@ -1,4 +1,6 @@
 # EduVRse-Metaverse-Hackathon-UT-Austin
+
+#Won 2nd Place at 2024 Metaverse Hackathon at University of Texas at Austin
 Over the course of three days, we crafted an immersive and forward-thinking career simulation set within the XR (extended reality) metaverse, incorporating augmented reality (AR), mixed reality (MR), and virtual reality (VR) technologies.
 
 This groundbreaking project aims to revolutionize career exploration by empowering students with an invaluable platform to navigate diverse career paths with ease and confidence. 
