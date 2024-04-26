@@ -12,3 +12,4 @@ By leveraging cutting-edge XR technologies, we offer an immersive experience tha
 Through interactive simulations, personalized guidance, and real-time feedback, participants gain crucial insights essential for making informed decisions regarding college majors and mapping out their future career trajectories.
 
 Our innovative approach not only fosters exploration and curiosity but also equips students with the knowledge and confidence needed to pursue fulfilling and successful career paths.
+
